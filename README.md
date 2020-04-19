@@ -80,9 +80,8 @@ This outcome implies that __________.
  <br>
  <b>Answer: taxes must have decline while government transfers remain unchanged</b>
  <br><br>
-4. In country D, the total adult population and the number of adults with jobs have remained constant since last year, while the labor-force participation rate has declined. In this situation, the unemployment rate this year _________.
-<br>
- <b>Answer: Must have risen</b>
+4. This year, country J has a private saving of $150 billion and investement of $180 billion. If the government's budget deficit is $20 billion, what would be the trade deficit? (Answer in billions of dollars.)
+ <b>Answer: 50</b>
  <br><br>
 5. Consider an economy that produces only two goods, soft drinks and hamburgers. The following price and quantity statistics are available about this economy:
 
