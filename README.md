@@ -81,6 +81,7 @@ This outcome implies that __________.
  <b>Answer: taxes must have decline while government transfers remain unchanged</b>
  <br><br>
 4. This year, country J has a private saving of $150 billion and investement of $180 billion. If the government's budget deficit is $20 billion, what would be the trade deficit? (Answer in billions of dollars.)
+<br>
  <b>Answer: 50</b>
  <br><br>
 5. During recessions, it is natural for an economy to consume less and invest more.
