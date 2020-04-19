@@ -103,7 +103,7 @@ This outcome implies that __________.
 <b>Answer: Increase in budget deficit</b>
 <br><br>
 10. Which of the following is a correct representation of Investment (I) in terms of other macroeconomic variables [GDP (Y), Private Consumption (C), Government Consumption (G), Trade Surplus (NX), and Domestic Savings (S)]? Select all that apply.
-<b>Answer: 1. I = Y - C - G - N
- X<br>2. I = S -NX</b>
+<b>Answer: 1. I = Y - C - G - NX
+ <br>2. I = S -NX</b>
 <br><br>
 </ol>
