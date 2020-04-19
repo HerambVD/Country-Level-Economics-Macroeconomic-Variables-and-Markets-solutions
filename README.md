@@ -98,14 +98,11 @@ This outcome implies that __________.
 <br>
 <b>Answer:  NX = S - I</b>
 <br><br>
-9. An Indian company buys a new machine made in Britain by a Japanese company. No additional resources are used in India for the investment. The machine is made entirely with British labor and British-made parts. Assume that other activities in India, Britain, and Japan are unaffected by this purchase.
-
-As a result, __________.
+9. Which of the following could have contributed to high trade deficit in the United States?
 <br>
-<b>Answer: Britains GDP increase</b>
+<b>Answer: Increase in budget deficit</b>
 <br><br>
-10. Consumer price index is a measure of the price level for the goods and services __________.
-<br>
-<b>Answer: Produced and Consumed in a country</b>
+10. Which of the following is a correct representation of Investment (I) in terms of other macroeconomic variables [GDP (Y), Private Consumption (C), Government Consumption (G), Trade Surplus (NX), and Domestic Savings (S)]? Select all that apply.
+<b>Answer: I = Y - C - G - NX, I = S -NX</b>
 <br><br>
 </ol>
