@@ -94,9 +94,9 @@ This outcome implies that __________.
 <br> 
 <b>Answer: $120 billion</b>
 <br><br>
-8. The purchase of __________.
+8. Which of the following is a correct representation of the relationship between Trade Surplus (NX) and other macroeconomic variables [GDP (Y), Private Consumption (C), Government Consumption (G), Investment (I), Domestic Savings (S), Private Savings (Sp), and Government Savings (Sg)]?
 <br>
-<b>Answer:  a used house does not enter GDP, but purchase of new material does</b>
+<b>Answer:  NX = S - I</b>
 <br><br>
 9. An Indian company buys a new machine made in Britain by a Japanese company. No additional resources are used in India for the investment. The machine is made entirely with British labor and British-made parts. Assume that other activities in India, Britain, and Japan are unaffected by this purchase.
 
