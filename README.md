@@ -63,20 +63,22 @@ As a result, __________.
 <p>The informal sector consists of enterprises that have less than ten employees excluding the employer. Agriculture, Casual Laborers comprises the vast majority of the informal sector. The participation of women in the informal sector is  32% whereas in the formal sector it is only 17%. The formal sector comprises of Information Technology, Government organizations, etc. that requires highly educated or skilled workers. This less participation of women may imply that India is lagging behind to provide equal opportunities to women and training women adequately to sustain in the workforce.</p>
 
 
-Module - I 
+Module - II
 
 <ol>
-1. In 2015, the average nominal wage rate in country A went up by 1% and the rate of inflation was -2%. The real wage rate growth in 2015 in the country must have been approximately __________. 
+1. In macroeconomic analysis, why does one have to distinguish between consumption and investment expenditures?
  <br>
- <b>Answer: 3%</b>
+ <b>Answer: Consumption and Investment expenditures are determined by different factors.</b>
  <br><br>
-2. Over the past three decades, the real GDP of the United States has increased at an average the rate of 3% per year. The average growth rate of population in the country has been 1% per year. What has been the average growth rate of real per capita GDP in the US during the past three decades?
+2. Suppose that the aggregate income in a country is $100 billion, aggregate private consumption is $60 billion, and total tax payment is $20 billion.<br>How much does the private sector save in this economy? (Answer in billions of dollars.)
  <br>
- <b>Answer: 2%</b>
+ <b>Answer: 20</b>
  <br><br>
-3. Among the adult population in country C, 50% participate in the labor market and 45% are employed. What is the unemployment rate in country C?
+3. In the United States, government expenditure on goods and services as a share of GDP declined between the mid-1960s and late-1990s while the budget deficit was growing.
+
+This outcome implies that __________.
  <br>
- <b>Answer: 10%</b>
+ <b>Answer: taxes must have decline while government transfers remain unchanged</b>
  <br><br>
 4. In country D, the total adult population and the number of adults with jobs have remained constant since last year, while the labor-force participation rate has declined. In this situation, the unemployment rate this year _________.
 <br>
