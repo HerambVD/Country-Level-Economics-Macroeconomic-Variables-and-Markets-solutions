@@ -83,28 +83,16 @@ This outcome implies that __________.
 4. This year, country J has a private saving of $150 billion and investement of $180 billion. If the government's budget deficit is $20 billion, what would be the trade deficit? (Answer in billions of dollars.)
  <b>Answer: 50</b>
  <br><br>
-5. Consider an economy that produces only two goods, soft drinks and hamburgers. The following price and quantity statistics are available about this economy:
-
-Year	Hamburgers	    Soft Drinks<br>
-2015	Price = $2.00; Quantity = 2000	Price = $0.50; Quantity = 2000
-2016	Price = $2.25; Quantity = 2000	Price = $0.50; Quantity = 2200
-
-Taking 2015 as the base year, find the growth rate of the constant-price GDP in 2016. Round to the nearest whole percent and enter just the number with no symbols.
+5. During recessions, it is natural for an economy to consume less and invest more.
 <br> 
-<b>Answer: 2</b>
+<b>Answer: False</b>
 <br><br>
-6. Consider the same economy as in Question 5. The following price and quantity statistics are available about this economy:
-
-Year	Hamburgers	  Soft Drinks
-2015	Price = $2.00; Quantity = 2000	Price = $0.50; Quantity = 2000
-2016	Price = $2.25; Quantity = 2000	Price = $0.50; Quantity = 2200
-Taking 2015 as the base year, find the rate of inflation based on GDP deflator in 2016. Round to the nearest whole percent and enter just the number with no symbols.<br><br>In country M, households have been going to restaurants for half of their meals and for the rest they have been enjoying their own cooking at home. This year, habits have changed and households are having only one quarter of their meals in restaurants. Assume that the total expenditure on all other goods and services remains unchanged from last year.
-<br>
-<b>Answer: 10</b>
+6. This year, country K has a budget deficit of $30 billion, taxes are $70 billion, and government expenditures are $80 billion. How much did the government spend in providing transfers?<br>
+<b>Answer: 20</b>
 <br><br>
-7. As a result of this change, the GDP of country M __________.
+7. This year in Country L, GDP is $500 billion, private consumption is $300 billion, government expenditure is $100 billion, and trade surplus is $20 billion. How much is total (public and private) domestic savings?
 <br> 
-<b>Answer: Goes down this year</b>
+<b>Answer: $120 billion</b>
 <br><br>
 8. The purchase of __________.
 <br>
