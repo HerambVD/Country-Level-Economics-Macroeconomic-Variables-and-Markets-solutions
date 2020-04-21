@@ -66,13 +66,13 @@ As a result, __________.
 Module - II
 
 <ol>
-1. The price of one Indian rupee (INR) in terms of Australian dollar (AUD) is 0.02. If the price of a basket of goods is INR 50,000 in India and AUD 2000 in Australia, then the real exchange rate of the rupee vis-à-vis the Australian dollar (treating the rupee as home currency) is __________.
+1. In macroeconomic analysis, why does one have to distinguish between consumption and investment expenditures?
  <br>
- <b>Answer: 0.5.</b>
+ <b>Answer: Consumption and Investment expenditures are determined by different factors.</b>
  <br><br>
-2. How does a depreciation of the dollar against the yen affect the net exports of the US?
+2. Suppose that the aggregate income in a country is $100 billion, aggregate private consumption is $60 billion, and total tax payment is $20 billion.<br>How much does the private sector save in this economy? (Answer in billions of dollars.)
  <br>
- <b>Answer: The net exports of the US to Japan and the rest of the world will rise</b>
+ <b>Answer: 20</b>
  <br><br>
 3. In the United States, government expenditure on goods and services as a share of GDP declined between the mid-1960s and late-1990s while the budget deficit was growing.
 
@@ -116,13 +116,13 @@ Module - III
 
 
 <ol>
-1. In macroeconomic analysis, why does one have to distinguish between consumption and investment expenditures?
+1. The price of one Indian rupee (INR) in terms of Australian dollar (AUD) is 0.02. If the price of a basket of goods is INR 50,000 in India and AUD 2000 in Australia, then the real exchange rate of the rupee vis-à-vis the Australian dollar (treating the rupee as home currency) is __________.
  <br>
- <b>Answer: Consumption and Investment expenditures are determined by different factors.</b>
+ <b>Answer: 0.5.</b>
  <br><br>
-2. Suppose that the aggregate income in a country is $100 billion, aggregate private consumption is $60 billion, and total tax payment is $20 billion.<br>How much does the private sector save in this economy? (Answer in billions of dollars.)
+2. How does a depreciation of the dollar against the yen affect the net exports of the US?
  <br>
- <b>Answer: 20</b>
+ <b>Answer: The net exports of the US to Japan and the rest of the world will rise</b>
  <br><br>
 3. You are in charge of managing $10 million for one year. You are allowed to invest only in the US or German government bonds, both of which are considered risk free. The money is needed exactly one year from now in dollars, and you are not allowed to take any risks with it. The interest rates on the dollar and the German bonds are, respectively, i = 0.02 and i = 0.05. The spot exchange rate is e = 0.90€/$ and the forward rate is e = 0.945€/$.
 
