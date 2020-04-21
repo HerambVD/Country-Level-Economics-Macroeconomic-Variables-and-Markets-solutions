@@ -96,9 +96,9 @@ What would the spot rate, e, be if the expected exchange rate remains the same a
 <br>
 <b>Answer: 20</b>
 <br><br>
-7. Assuming that the covered and uncovered interest parities both hold at a given time and that ef and ee represent forward and expected exchange rates, we will have ___________.
+7. This year in Country L, GDP is $500 billion, private consumption is $300 billion, government expenditure is $100 billion, and trade surplus is $20 billion. How much is total (public and private) domestic savings?
 <br> 
-<b>Answer: e<sup>f</sup> =e<sup>e</sup></b>
+<b>Answer: $120 billion</b>
 <br><br>
 8. ef and e represent forward and spot exchange rates, and i and i* represent the interest rates on domestic currency and interest rate on foreign currency, respectively.
 
@@ -145,21 +145,23 @@ What is the highest return you can expect on the $10 million? (Answer the number
 6. This year, country K has a budget deficit of $30 billion, taxes are $70 billion, and government expenditures are $80 billion. How much did the government spend in providing transfers?<br>
 <b>Answer: 20</b>
 <br><br>
-7. This year in Country L, GDP is $500 billion, private consumption is $300 billion, government expenditure is $100 billion, and trade surplus is $20 billion. How much is total (public and private) domestic savings?
+7. 
 <br> 
-<b>Answer: $120 billion</b>
+<b>Answer: e<sup>f</sup> =e<sup>e</sup></b>
 <br><br>
 8. ef and e represent forward and spot exchange rates, and i and i* represent the interest rates on domestic currency and interest rate on foreign currency, respectively.
 
 Which of the following equations can represent the Covered Interest Parity? Check all that apply.
 <br>
-<b>Answer:  NX = S - I</b>
+<b>Answer:  (1+i)(1+i<sup>*</sup>)=e/e<sup>f</sup><br> (1+i)e<sup>f</sup>=(1+i<sup>*</sup>)e<br> (e<sup>f</sup>-e)/e=(i<sup>*</sup>-1)/(i+1)</b>
 <br><br>
-9. Which of the following could have contributed to high trade deficit in the United States?
+9. Suppose Botswana decides to peg its currency, pula, to the US dollar at the of rate 0.1$/pula and allows capital to free flow in and out of the country so that the interest parity condition holds. If everyone views the peg as credible and comes to expect the exchange rate to remain constant in the coming years, then the one-year, risk-free interest rate in Botswana will
 <br>
 <b>Answer: Increase in budget deficit</b>
 <br><br>
-10. Which of the following is a correct representation of Investment (I) in terms of other macroeconomic variables [GDP (Y), Private Consumption (C), Government Consumption (G), Trade Surplus (NX), and Domestic Savings (S)]? Select all that apply.
+10. Suppose (1+i)ef < (1+i*)e where ef and e represent forward (a year from now) and spot exchange rates and i and i* represent the interest rates on domestic currency and the interest rate on foreign currency, respectively.
+
+If the forward rate for six months from now is equal to e + (ef – e)/2, which of the following will guarantee higher returns a year from now?
 <b>Answer: 1. I = Y - C - G - NX
  <br>2. I = S -NX</b>
 <br><br>
