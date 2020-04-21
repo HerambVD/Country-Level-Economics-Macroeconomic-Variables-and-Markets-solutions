@@ -143,7 +143,7 @@ Find the spot exchange rate, e. (Answer in zł/$ and round to the nearest tenth.
 6. Suppose that the interest rate on dollar accounts is equal to 2% (i$ = 0.02), the interest rate on Polish zloty accounts is equal to 4.5% (izł = 0.045), and the expected exchange rate between the dollar and the zloty one year from now is ee = 4 zł/$. Assume that the (uncovered) interest parity holds.
 
 What would the spot rate, e, be if the expected exchange rate remains the same and the interest rate on Polish assets declines to izł = 0.02? (Answer in zł/$.)<br>
-<b>Answer: 3.9</b>
+<b>Answer: 4</b>
 <br><br>
 7. Assuming that the covered and uncovered interest parities both hold at a given time and that ef and ee represent forward and expected exchange rates, we will have ___________.
 <br> 
