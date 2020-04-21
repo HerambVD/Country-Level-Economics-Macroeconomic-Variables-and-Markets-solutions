@@ -66,6 +66,53 @@ As a result, __________.
 Module - II
 
 <ol>
+1. The price of one Indian rupee (INR) in terms of Australian dollar (AUD) is 0.02. If the price of a basket of goods is INR 50,000 in India and AUD 2000 in Australia, then the real exchange rate of the rupee vis-à-vis the Australian dollar (treating the rupee as home currency) is __________.
+ <br>
+ <b>Answer: 0.5.</b>
+ <br><br>
+2. How does a depreciation of the dollar against the yen affect the net exports of the US?
+ <br>
+ <b>Answer: The net exports of the US to Japan and the rest of the world will rise</b>
+ <br><br>
+3. In the United States, government expenditure on goods and services as a share of GDP declined between the mid-1960s and late-1990s while the budget deficit was growing.
+
+This outcome implies that __________.
+ <br>
+ <b>Answer: taxes must have decline while government transfers remain unchanged</b>
+ <br><br>
+4. This year, country J has a private saving of $150 billion and investement of $180 billion. If the government's budget deficit is $20 billion, what would be the trade deficit? (Answer in billions of dollars.)
+<br>
+ <b>Answer: 50</b>
+ <br><br>
+5. During recessions, it is natural for an economy to consume less and invest more.
+<br> 
+<b>Answer: False</b>
+<br><br>
+6. This year, country K has a budget deficit of $30 billion, taxes are $70 billion, and government expenditures are $80 billion. How much did the government spend in providing transfers?<br>
+<b>Answer: 20</b>
+<br><br>
+7. This year in Country L, GDP is $500 billion, private consumption is $300 billion, government expenditure is $100 billion, and trade surplus is $20 billion. How much is total (public and private) domestic savings?
+<br> 
+<b>Answer: $120 billion</b>
+<br><br>
+8. Which of the following is a correct representation of the relationship between Trade Surplus (NX) and other macroeconomic variables [GDP (Y), Private Consumption (C), Government Consumption (G), Investment (I), Domestic Savings (S), Private Savings (Sp), and Government Savings (Sg)]?
+<br>
+<b>Answer:  NX = S - I</b>
+<br><br>
+9. Which of the following could have contributed to high trade deficit in the United States?
+<br>
+<b>Answer: Increase in budget deficit</b>
+<br><br>
+10. Which of the following is a correct representation of Investment (I) in terms of other macroeconomic variables [GDP (Y), Private Consumption (C), Government Consumption (G), Trade Surplus (NX), and Domestic Savings (S)]? Select all that apply.
+<b>Answer: 1. I = Y - C - G - NX
+ <br>2. I = S -NX</b>
+<br><br>
+</ol>
+
+Module - III
+
+
+<ol>
 1. In macroeconomic analysis, why does one have to distinguish between consumption and investment expenditures?
  <br>
  <b>Answer: Consumption and Investment expenditures are determined by different factors.</b>
