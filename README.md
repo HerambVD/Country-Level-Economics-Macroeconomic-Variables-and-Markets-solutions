@@ -121,11 +121,11 @@ Module - III
  <br>
  <b>Answer: 20</b>
  <br><br>
-3. In the United States, government expenditure on goods and services as a share of GDP declined between the mid-1960s and late-1990s while the budget deficit was growing.
+3. You are in charge of managing $10 million for one year. You are allowed to invest only in the US or German government bonds, both of which are considered risk free. The money is needed exactly one year from now in dollars, and you are not allowed to take any risks with it. The interest rates on the dollar and the German bonds are, respectively, i = 0.02 and i = 0.05. The spot exchange rate is e = 0.90€/$ and the forward rate is e = 0.945€/$.
 
-This outcome implies that __________.
+What is the highest return you can expect on the $10 million? (Answer the number of dollars with no dollar sign or separators.) Assume that any contract you make must be backed by the assets that you already have.
  <br>
- <b>Answer: taxes must have decline while government transfers remain unchanged</b>
+ <b>Answer: 15</b>
  <br><br>
 4. This year, country J has a private saving of $150 billion and investement of $180 billion. If the government's budget deficit is $20 billion, what would be the trade deficit? (Answer in billions of dollars.)
 <br>
