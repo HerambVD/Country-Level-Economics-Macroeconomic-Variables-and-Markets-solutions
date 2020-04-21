@@ -149,7 +149,9 @@ What is the highest return you can expect on the $10 million? (Answer the number
 <br> 
 <b>Answer: $120 billion</b>
 <br><br>
-8. Which of the following is a correct representation of the relationship between Trade Surplus (NX) and other macroeconomic variables [GDP (Y), Private Consumption (C), Government Consumption (G), Investment (I), Domestic Savings (S), Private Savings (Sp), and Government Savings (Sg)]?
+8. ef and e represent forward and spot exchange rates, and i and i* represent the interest rates on domestic currency and interest rate on foreign currency, respectively.
+
+Which of the following equations can represent the Covered Interest Parity? Check all that apply.
 <br>
 <b>Answer:  NX = S - I</b>
 <br><br>
