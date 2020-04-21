@@ -80,19 +80,15 @@ This outcome implies that __________.
  <br>
  <b>Answer: taxes must have decline while government transfers remain unchanged</b>
  <br><br>
-4. If covered interest parity holds, foreign interest rates are constant, and the rate of interest on dollar deposits rises, the excess value of the dollar in the forward market, (ef - e)/e __________.
+4. This year, country J has a private saving of $150 billion and investement of $180 billion. If the government's budget deficit is $20 billion, what would be the trade deficit? (Answer in billions of dollars.)
 <br>
- <b>Answer: must decline</b>
+ <b>Answer: 50</b>
  <br><br>
-5. Suppose that the interest rate on dollar accounts is equal to 2% (i$ = 0.02), the interest rate on Polish zloty accounts is equal to 4.5% (izł = 0.045), and the expected exchange rate between the dollar and the zloty one year from now is ee = 4 zł/$. Assume that the (uncovered) interest parity holds.
-
-Find the spot exchange rate, e. (Answer in zł/$ and round to the nearest tenth.)
+5. During recessions, it is natural for an economy to consume less and invest more.
 <br> 
-<b>Answer: 0</b>
+<b>Answer: False</b>
 <br><br>
-6. Suppose that the interest rate on dollar accounts is equal to 2% (i$ = 0.02), the interest rate on Polish zloty accounts is equal to 4.5% (izł = 0.045), and the expected exchange rate between the dollar and the zloty one year from now is ee = 4 zł/$. Assume that the (uncovered) interest parity holds.
-
-What would the spot rate, e, be if the expected exchange rate remains the same and the interest rate on Polish assets declines to izł = 0.02? (Answer in zł/$.)
+6. This year, country K has a budget deficit of $30 billion, taxes are $70 billion, and government expenditures are $80 billion. How much did the government spend in providing transfers?
 <br>
 <b>Answer: 20</b>
 <br><br>
@@ -134,16 +130,20 @@ What is the highest return you can expect on the $10 million? (Answer the number
  <br>
  <b>Answer: 15</b>
  <br><br>
-4. This year, country J has a private saving of $150 billion and investement of $180 billion. If the government's budget deficit is $20 billion, what would be the trade deficit? (Answer in billions of dollars.)
+4. If covered interest parity holds, foreign interest rates are constant, and the rate of interest on dollar deposits rises, the excess value of the dollar in the forward market, (ef - e)/e __________.
 <br>
- <b>Answer: 50</b>
+ <b>Answer: must decline</b>
  <br><br>
-5. During recessions, it is natural for an economy to consume less and invest more.
+5. Suppose that the interest rate on dollar accounts is equal to 2% (i$ = 0.02), the interest rate on Polish zloty accounts is equal to 4.5% (izł = 0.045), and the expected exchange rate between the dollar and the zloty one year from now is ee = 4 zł/$. Assume that the (uncovered) interest parity holds.
+
+Find the spot exchange rate, e. (Answer in zł/$ and round to the nearest tenth.)
 <br> 
-<b>Answer: False</b>
+<b>Answer: 0</b>
 <br><br>
-6. This year, country K has a budget deficit of $30 billion, taxes are $70 billion, and government expenditures are $80 billion. How much did the government spend in providing transfers?<br>
-<b>Answer: 20</b>
+6. Suppose that the interest rate on dollar accounts is equal to 2% (i$ = 0.02), the interest rate on Polish zloty accounts is equal to 4.5% (izł = 0.045), and the expected exchange rate between the dollar and the zloty one year from now is ee = 4 zł/$. Assume that the (uncovered) interest parity holds.
+
+What would the spot rate, e, be if the expected exchange rate remains the same and the interest rate on Polish assets declines to izł = 0.02? (Answer in zł/$.)<br>
+<b>Answer: 3.9</b>
 <br><br>
 7. Assuming that the covered and uncovered interest parities both hold at a given time and that ef and ee represent forward and expected exchange rates, we will have ___________.
 <br> 
@@ -157,7 +157,7 @@ Which of the following equations can represent the Covered Interest Parity? Chec
 <br><br>
 9. Suppose Botswana decides to peg its currency, pula, to the US dollar at the of rate 0.1$/pula and allows capital to free flow in and out of the country so that the interest parity condition holds. If everyone views the peg as credible and comes to expect the exchange rate to remain constant in the coming years, then the one-year, risk-free interest rate in Botswana will
 <br>
-<b>Answer: Increase in budget deficit</b>
+<b>Answer: Be higher than US</b>
 <br><br>
 10. Suppose (1+i)ef < (1+i*)e where ef and e represent forward (a year from now) and spot exchange rates and i and i* represent the interest rates on domestic currency and the interest rate on foreign currency, respectively.
 
