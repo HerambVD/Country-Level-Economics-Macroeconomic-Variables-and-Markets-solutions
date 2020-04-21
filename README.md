@@ -145,7 +145,7 @@ What is the highest return you can expect on the $10 million? (Answer the number
 6. This year, country K has a budget deficit of $30 billion, taxes are $70 billion, and government expenditures are $80 billion. How much did the government spend in providing transfers?<br>
 <b>Answer: 20</b>
 <br><br>
-7. 
+7. Assuming that the covered and uncovered interest parities both hold at a given time and that ef and ee represent forward and expected exchange rates, we will have ___________.
 <br> 
 <b>Answer: e<sup>f</sup> =e<sup>e</sup></b>
 <br><br>
