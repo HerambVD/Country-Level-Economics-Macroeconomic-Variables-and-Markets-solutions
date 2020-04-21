@@ -162,7 +162,5 @@ Which of the following equations can represent the Covered Interest Parity? Chec
 10. Suppose (1+i)ef < (1+i*)e where ef and e represent forward (a year from now) and spot exchange rates and i and i* represent the interest rates on domestic currency and the interest rate on foreign currency, respectively.
 
 If the forward rate for six months from now is equal to e + (ef – e)/2, which of the following will guarantee higher returns a year from now?
-<b>Answer: 1. I = Y - C - G - NX
- <br>2. I = S -NX</b>
-<br><br>
+<b>Answer: Converting to foreign currency now<br>
 </ol>
