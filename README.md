@@ -164,3 +164,50 @@ Which of the following equations can represent the Covered Interest Parity? Chec
 If the forward rate for six months from now is equal to e + (ef – e)/2, which of the following will guarantee higher returns a year from now?
 <b>Answer: Converting to foreign currency now<br>
 </ol>
+
+Module - IV
+
+<ol>
+1. Central banks have perfect control over the money supply in their economies.
+ <br>
+ <b>Answer: False</b>
+ <br><br>
+2. The nominal interest rate is a better measure of the opportunity cost of holding money than the real interest rate because in addition to the real interest rate it includes the loss of money’s value due to inflation.
+ <br>
+ <b>Answer: True</b>
+ <br><br>
+3. How does an increase in the money supply affect the LM curve?
+ <br>
+ <b>Answer: The LM curve becomes flatter</b>
+ <br><br>
+4. After the unification of the East and West German economies in 1990, the East German mark (EDM) was replaced by the West German mark (DM). A contested issue in the debates over the terms of unification was the rate at which the EDM and DM were to be exchanged for each other. Some argued that DM 1 must be set equal to EDM 2, while others favored a one-to-one relationship. In the end, the government of Germany decided to apply the DM 1=EDM 1 exchange rate for the first 3000 Eastern marks that each former East German citizen wanted to convert and maintain an exchange rate of DM 1=EDM 2 for any additional amounts of EDM offered for exchange. Suppose the German government had decided to apply the 1:1 rate to all East German marks.
+
+Assuming that all other policies as well as production levels would have remained the same, compared to what actually happened to the dollar-DM exchange rate, the dollar value of the DM __________.
+<br>
+ <b>Answer: Would have been lower</b>
+ <br><br>
+5. If the central bank of Turkey temporarily increases the money supply of the country, given other parameters, what will happen to the equilibrium interest rate in Turkey? How will this policy affect the exchange rate of Turkish lira vis-à-vis the euro?
+<br> 
+<b>Answer: equilibrium rate of interest will decline, and market exchange rate wil depreciate </b>
+<br><br>
+6. Assuming that the real interest rate and the real GDP growth are given in the long run, an increase in the rate of growth of money supply over many years _________.
+<br>
+<b>Answer: leads to lower the nominal interest rate</b>
+<br><br>
+7. Assuming that the price level and the real GDP are given in the short run, a temporary increase in money supply _________.
+<br> 
+<b>Answer: leads to lower the nominal interest rate</b>
+<br><br>
+8. It is observed that the money supply in the US increases. Which of the following might have caused this movement?
+<br>
+<b>Answer: fed must have bought govenment jobs</b>
+<br><br>
+9. Which of the following explains why the demand for money is proportional to PY where P is the price level and Y is the GDP? Check all that apply.
+<br>
+<b>Answer: Britains GDP increase</b>
+<br><br>
+10. Given the money demand curve, an increase in money supply will cause which of the following changes?
+<br>
+<b>Answer: decrease in interest rates</b>
+<br><br>
+</ol>
