@@ -7,9 +7,9 @@ Module - I
  <br>
  <b>Answer: All of the above</b>
  <br><br>
-2. Over the past three decades, the real GDP of the United States has increased at an average the rate of 3% per year. The average growth rate of population in the country has been 1% per year. What has been the average growth rate of real per capita GDP in the US during the past three decades?
+2. In the short run, when prices are sticky and the goods market is in equilibrium, income rises as the interest rate declines because:
  <br>
- <b>Answer: 2%</b>
+ <b>Answer: Investment expenditure rises</b>
  <br><br>
 3. Among the adult population in country C, 50% participate in the labor market and 45% are employed. What is the unemployment rate in country C?
  <br>
