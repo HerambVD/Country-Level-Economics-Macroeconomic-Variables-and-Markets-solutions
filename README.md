@@ -1,4 +1,4 @@
-# Country Level Economics Macroeconomic Variables and Markets (Coursera): Solutions
+# Country Level Economics Policies, Institutions, and Macroeconomic Performance (Coursera): Solutions
 
 Module - I 
 
@@ -11,50 +11,37 @@ Module - I
  <br>
  <b>Answer: Investment expenditure rises</b>
  <br><br>
-3. Among the adult population in country C, 50% participate in the labor market and 45% are employed. What is the unemployment rate in country C?
+3. Suppose P, P*, Y, Y*, π, R, T, and G are exogenously given and the interest parity condition holds. Then aggregate “preferred” expenditure, D, rises when:
  <br>
- <b>Answer: 10%</b>
+ <b>Answer: The foreign aggregate price level rises</b>
  <br><br>
-4. In country D, the total adult population and the number of adults with jobs have remained constant since last year, while the labor-force participation rate has declined. In this situation, the unemployment rate this year _________.
+4. In general, as aggregate income of an economy rises:
 <br>
- <b>Answer: Must have risen</b>
+ <b>Answer: Consumption demand rises by less than income rise</b>
  <br><br>
-5. Consider an economy that produces only two goods, soft drinks and hamburgers. The following price and quantity statistics are available about this economy:
-
-Year	Hamburgers	    Soft Drinks<br>
-2015	Price = $2.00; Quantity = 2000	Price = $0.50; Quantity = 2000
-2016	Price = $2.25; Quantity = 2000	Price = $0.50; Quantity = 2200
-
-Taking 2015 as the base year, find the growth rate of the constant-price GDP in 2016. Round to the nearest whole percent and enter just the number with no symbols.
+5. Which of the following factors does not shift the aggregate "preferred" expenditure (D) curve of an economy?
 <br> 
-<b>Answer: 2</b>
+<b>Answer: The aggregate price level</b>
 <br><br>
-6. Consider the same economy as in Question 5. The following price and quantity statistics are available about this economy:
-
-Year	Hamburgers	  Soft Drinks
-2015	Price = $2.00; Quantity = 2000	Price = $0.50; Quantity = 2000
-2016	Price = $2.25; Quantity = 2000	Price = $0.50; Quantity = 2200
-Taking 2015 as the base year, find the rate of inflation based on GDP deflator in 2016. Round to the nearest whole percent and enter just the number with no symbols.<br><br>In country M, households have been going to restaurants for half of their meals and for the rest they have been enjoying their own cooking at home. This year, habits have changed and households are having only one quarter of their meals in restaurants. Assume that the total expenditure on all other goods and services remains unchanged from last year.
+6. Which of the following factors shifts the IS curve?
 <br>
-<b>Answer: 10</b>
+<b>Answer: Government Expenditure</b>
 <br><br>
-7. As a result of this change, the GDP of country M __________.
+7. Latin America is a major export market for the US. If, as a result of a slump in commodity prices, the real incomes in Latin American countries decline, what would be the impact on the IS curve of the US economy?
 <br> 
-<b>Answer: Goes down this year</b>
+<b>Answer: The IS curve would shift left</b>
 <br><br>
-8. The purchase of __________.
+8. This year, country B held presidential elections and the government of the incumbent president temporarily increased public expenditure to win greater political support. Assuming that Ms, P, P*, Y*, and T were exogenously given, what kind of impact must this policy have had on the IS curve in country B?
 <br>
-<b>Answer:  a used house does not enter GDP, but purchase of new material does</b>
+<b>Answer:  The IS curve must have shifted right</b>
 <br><br>
-9. An Indian company buys a new machine made in Britain by a Japanese company. No additional resources are used in India for the investment. The machine is made entirely with British labor and British-made parts. Assume that other activities in India, Britain, and Japan are unaffected by this purchase.
-
-As a result, __________.
+9. This year, country T held politically sensitive parliamentary elections and the government of the incumbent ruling party temporarily increased public expenditure to enhance its popularity. The government financed the additional expenditure by selling more bonds. Assuming that Ms, P, P*, Y*, and T were exogenously given, what kind of impact must this policy have had on the LM curve in country T?
 <br>
-<b>Answer: Britains GDP increase</b>
+<b>Answer: The LM curve should not have benn affected</b>
 <br><br>
-10. Consumer price index is a measure of the price level for the goods and services __________.
+10. This year, country E held politically sensitive parliamentary elections and the government of the incumbent ruling party temporarily increased public expenditure to enhance its popularity. The government financed the additional expenditure by getting the country’s central bank to print money to finance the additional expenditure. Assuming that P, P*, Y*, and T were exogenously given, what kind of impact must this policy have had on the real income and interest rate in country E?
 <br>
-<b>Answer: Produced and Consumed in a country</b>
+<b>Answer: Both real income and interest rate must have declined</b>
 <br><br>
 </ol>
 
