@@ -56,42 +56,42 @@ Module - II
 <ol>
 1. Suppose the price level in the US is 150 while the corresponding price level in the UK is 100. If the nominal exchange rate is e=2/3£/$, what is the real exchange rate between the US dollar and the British pound (that is, how many baskets of British goods can be purchased with one corresponding basket of US goods)? 
  <br>
- <b>Answer: All of the above</b>
+ <b>Answer: 1</b>
  <br><br>
 2. During 1960-1990, the cost of a representative basket of goods produced in Japan steadily rose compared to a similar basket of goods produced in the US, when both baskets were evaluated in the same currency using the spot market exchange rate. Which one of the following factors contributed to that long-term real exchange rate appreciation?
  <br>
- <b>Answer: All of the above</b>
+ <b>Answer: faster productivity of growth of tradable sector in Japan</b>
  <br><br>
 3. During 1980-2008, the Chinese government followed a successful policy of increasing the productivity of the country's tradable sectors much faster than was the case in the rest of the world. If this policy had continued over the 2009-2016 period and if the productivity in China's non-tradable sector had grown at the same rate as that in the rest of the world, what would have been the impact on the real exchange rate of the Chinese currency, the yuan, vis-à-vis the US dollar?
  <br>
- <b>Answer: The foreign aggregate price level rises</b>
+ <b>Answer: The real exchange rate of Yuan would have appreciated</b>
  <br><br>
 4. Suppose the government of the United States introduces a permanent tax reduction without cutting expenditure over the next several years. The plan will go into effect next year. Assuming that tradables' prices in foreign currency are given, what will be the impact of this policy on the real exchange rate of the dollar vis-à-vis other currencies a few years from now?
 <br>
- <b>Answer: Consumption demand rises by less than income rise</b>
+ <b>Answer: The real exchange rate of US will appreciate</b>
  <br><br>
 5. Which of the following reasons may account for the failure of the law of one price?
 <br> 
-<b>Answer: aggregate real income of the rest of the world</b>
+<b>Answer: All of the above</b>
 <br><br>
 6. The PPP hypothesis implies that the real exchange rate must be equal to which of the following? Select all that apply.
 <br>
-<b>Answer: Government Expenditure</b>
+<b>Answer: 1 and eP/P*</b>
 <br><br>
 7. The prices of the inputs used for the production of airplanes in United States will be included in which of the two price indices?
 <br> 
-<b>Answer: The IS curve would shift left</b>
+<b>Answer: Entirely in the tradables price index, P<sub>T</sub></b>
 <br><br>
 8. The real exchange rate of an economy _________ when the relative price of non-tradables to tradables _________.
 <br>
-<b>Answer:  The IS curve must have shifted right</b>
+<b>Answer:  Rises; rises</b>
 <br><br>
 9. In the long run, the relative price of non-tradables to tradables is determined by the rate of growth of money supply.
 <br>
-<b>Answer: The LM curve should not have benn affected</b>
+<b>Answer: False</b>
 <br><br>
 10. Suppose the productivity of the non-tradables sector in the Pakistan economy permanently reduces due to a natural calamity while the tradable sector remains unaffected. If all economic policies and other exogenous events in all countries remain unchanged, in the long-run, the real exchange rate of Pakistani Rupee vis-à-vis the US dollar:
 <br>
-<b>Answer: Both real income and interest rate must have declined</b>
+<b>Answer: Appreciates</b>
 <br><br>
 </ol>
