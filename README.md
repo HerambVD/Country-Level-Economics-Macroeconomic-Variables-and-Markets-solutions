@@ -9,7 +9,7 @@ Module - I
  <br><br>
 2. In the short run, when prices are sticky and the goods market is in equilibrium, income rises as the interest rate declines because:
  <br>
- <b>Answer: Investment expenditure rises</b>
+ <b>Answer: All of the above</b>
  <br><br>
 3. Suppose P, P*, Y, Y*, π, R, T, and G are exogenously given and the interest parity condition holds. Then aggregate “preferred” expenditure, D, rises when:
  <br>
@@ -21,7 +21,7 @@ Module - I
  <br><br>
 5. Which of the following factors does not shift the aggregate "preferred" expenditure (D) curve of an economy?
 <br> 
-<b>Answer: The aggregate price level</b>
+<b>Answer: aggregate real income of the rest of the world</b>
 <br><br>
 6. Which of the following factors shifts the IS curve?
 <br>
