@@ -96,7 +96,7 @@ Module - II
 <br><br>
 </ol>
 
-Module - I 
+Module - III 
 
 <ol>
 1. The Fed increased the supply of US dollars at an average rate of 6 percent per year over the 1980-2005 period. Based on the theory of production capacity, if the Fed had instead increased the money supply at the rate of 7 percent per year during that period, given other policies: (Select all that apply.)
@@ -105,7 +105,7 @@ Module - I
  <br><br>
 2. At the time of its independence in 1947, India was a very poor country with a very small stock of physical capital. Between 1947 and 1980, the government of India believed that the best way to improve the standard of living in that country was to increase investment and create more jobs with the existing technology. Importing advanced technology and encouraging cost-saving innovations were seen as unnecessary because the government believed that such developments would reduce the need for labor and contribute to unemployment. Other things equal, the consequence of this policy for the long-run growth of the economy must have been:
  <br>
- <b>Answer: Steady economic growth</b>
+ <b>Answer: Accelerating economic growth</b>
  <br><br>
 3. Country J’s economy has been stagnant for some time. The government has now decided to stimulate the economy and achieve long-term growth by spending more and by running large budget deficits. Such a policy:
  <br>
@@ -121,21 +121,21 @@ Module - I
 <br><br>
 6. In 1997, East Asian economies faced a major financial crisis, which reduced their incomes and their demands for US exports. Suppose the Fed believed that the negative impact of the crisis on the US economy would be sizable and would take a few years. Assume that before the crisis, the US economy was on its long-run equilibrium path. In that case, if the Fed wanted to stabilize the level of income and inflation in the US for the duration of the adverse demand shock, what should it have done?
 <br>
-<b>Answer: The Fed should have waited before acting</b>
+<b>Answer: The Fed should have increased money supply</b>
 <br><br>
 7. Your company wants to expand its production and needs to know the impact of a surge in East Asian incomes this year on the US economy. You know that East Asian economies have been growing at an average rate of 5 percent per year, and the US economy has been growing at 3 percent per year along its long-run equilibrium path. You hire a consultant who tells you that everyone believes that: (1) the faster pace of East Asian countries this year is a one-time jump in income level and those economies will return to their 5 percent growth rate after this year; (2) the (risk-free) interest rates in East Asia will remain constant; and (3) the economic policies in the US will not change as a result of the temporary increase in Asia’s growth rate. If you believe these claims, you should conclude that by the end of this year, the developments in East Asia will tend to:
 <br> 
-<b>Answer: Temporarily raises growth rate and Productionof the US</b>
+<b>Answer: Leave the GDP and production capabilities unchanged</b>
 <br><br>
 8. In the above question (Question 7), given the assumptions about the current and future conditions, you can also conclude that over the next couple of years, the events in East Asia will tend to:
 <br>
-<b>Answer:  Lower the inflation and exchange rate of US </b>
+<b>Answer:  Raise Inflation and real exchange rate </b>
 <br><br>
 9. Complete the following sentence.
 
 “Accumulating capital without technological progress cannot generate long-term growth because as capital stock grows, its depreciation _____________, while total production rises at _____________ rate and _____________ portion of the savings that it generates has to be used for replacing depreciated capital, rather than being available for production capacity expansion.”
 <br>
-<b>Answer: Increases; a proportional, diminishes</b>
+<b>Answer: rises proportionally; an increasing, diminishes</b>
 <br><br>
 10. Which of the following are among the six major dimensions of governance as laid down by The Worldwide Governance Indicators? Select all that apply.
 <br>
