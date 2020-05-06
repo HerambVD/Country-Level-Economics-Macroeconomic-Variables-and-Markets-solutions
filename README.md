@@ -184,6 +184,6 @@ Module - IV
 <br><br>
 10. The presence of automatic stabilizers like income taxes in the policy framework can help reduce discretion while maintaining some policy responsiveness to economic fluctuations.
  <br>
- <b>True</b>
+ <b>Anser: True</b>
 <br><br>
 </ol>
