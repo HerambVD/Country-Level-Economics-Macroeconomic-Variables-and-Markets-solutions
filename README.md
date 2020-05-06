@@ -152,7 +152,7 @@ Module - IV
  <br><br>
 2. Under optimal fiscal policy, changes in public debt at each time should strongly depend on:
  <br>
- <b>Answer: All of the above</b>
+ <b>Answer: Noneof the above</b>
  <br><br>
 3. When government expenditure is used for stabilization purposes, it makes the changes in public debt:
  <br>
@@ -164,7 +164,7 @@ Module - IV
  <br><br>
 5. Which one of the following is a reason why actual fiscal policies in many countries deviate from the patterns deemed optimal?
 <br> 
- <b>Answer: Fiscal olicies may use for poltical support of interests groups</b>
+ <b>Answer: Both of the above</b>
 <br><br>
 6. From the point of view of macroeconomic policymaking, separation of powers:
 <br>
@@ -176,11 +176,11 @@ Module - IV
 <br><br>
 8. Under optimal fiscal policy, changes in public debt should be dependent on the existing levels of public debt and government size.
 <br>
-<b>Answer:  The IS curve must have shifted right</b>
+<b>Answer:  False</b>
 <br><br>
 9. Which of the following statements is true about monetary and fiscal policies in developing countries?
 <br>
- <b>Answer: Monetary policy is Countercyclical and fiscal policy is procyclical</b>
+ <b>Answer: Both are procyclical</b>
 <br><br>
 10. The presence of automatic stabilizers like income taxes in the policy framework can help reduce discretion while maintaining some policy responsiveness to economic fluctuations.
  <br>
