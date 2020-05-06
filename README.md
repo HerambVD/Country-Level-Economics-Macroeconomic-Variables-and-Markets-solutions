@@ -172,7 +172,7 @@ Module - IV
 <br><br>
 7. Which one of the following is an example of a rule-based monetary policy?
 <br> 
-<b>Answer: Currency board with fixed exchanged rate
+<b>Answer: Currency board with fixed exchanged rate</b>
 <br><br>
 8. Under optimal fiscal policy, changes in public debt should be dependent on the existing levels of public debt and government size.
 <br>
