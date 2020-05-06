@@ -142,3 +142,48 @@ Module - III
 <b>Answer: Voice and Accountability, Rule of Law, Govenment Effectiveness</b>
 <br><br>
 </ol>
+
+Module - IV
+
+<ol>
+1. Under optimal monetary policy, the central bank adjusts its policy based on anticipated rather than current inflation and output gaps because:
+ <br>
+ <b>Answer: It wants to avoid time-inconsistency problem</b>
+ <br><br>
+2. Under optimal fiscal policy, changes in public debt at each time should strongly depend on:
+ <br>
+ <b>Answer: All of the above</b>
+ <br><br>
+3. When government expenditure is used for stabilization purposes, it makes the changes in public debt:
+ <br>
+ <b>Answer: More countercyclical</b>
+ <br><br>
+4. In oil exporting countries, where government budgets are significantly financed by oil revenues, the governments can often borrow easily during oil price booms and become credit rationed when oil prices drop very low. If the government does not have large savings, this phenomenon is likely to make its fiscal policy:
+<br>
+ <b>Answer: Procyclical</b>
+ <br><br>
+5. Which one of the following is a reason why actual fiscal policies in many countries deviate from the patterns deemed optimal?
+<br> 
+ <b>Answer: Fiscal olicies may use for poltical support of interests groups</b>
+<br><br>
+6. From the point of view of macroeconomic policymaking, separation of powers:
+<br>
+ <b>Answer: Faces of tradeoff because it may release flexibility</b>
+<br><br>
+7. Which one of the following is an example of a rule-based monetary policy?
+<br> 
+<b>Answer: Currency board with fixed exchanged rate
+<br><br>
+8. Under optimal fiscal policy, changes in public debt should be dependent on the existing levels of public debt and government size.
+<br>
+<b>Answer:  The IS curve must have shifted right</b>
+<br><br>
+9. Which of the following statements is true about monetary and fiscal policies in developing countries?
+<br>
+ <b>Answer: Monetary policy is Countercyclical and fiscal policy is procyclical</b>
+<br><br>
+10. The presence of automatic stabilizers like income taxes in the policy framework can help reduce discretion while maintaining some policy responsiveness to economic fluctuations.
+ <br>
+ <b>True</b>
+<br><br>
+</ol>
